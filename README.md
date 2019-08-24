@@ -161,7 +161,7 @@ SRRデータを探している場合は[http://sra.dbcls.jp/](http://sra.dbcls.j
 
 <img src="https://github.com/yyoshiaki/mishima_gassyuku/blob/master/img/dbcls_sra.png?raw=true" width="50%" >
 
-##補足
+## 補足
 
 今後、ikra使用者から受け付けた質問への回答はこちらで公開してまいります。
 
