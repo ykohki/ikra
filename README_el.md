@@ -153,6 +153,13 @@ You can find SRR data so quickly in [http://sra.dbcls.jp/](http://sra.dbcls.jp/i
 
 <img src="https://github.com/yyoshiaki/mishima_gassyuku/blob/master/img/dbcls_sra.png?raw=true" width="50%" >
 
+## Additional explanation
+
+Answers to the questions from ikra users are added here.
+
+- When iDEP reads output.tsv, please put a check to [Read counts data]
+- The reference of mouse is gencode.vm21 and corresponds to GRCm38.
+
 ## Issue
 
 Please refer to [issue](https://github.com/yyoshiaki/auto_counttable_maker/issues)
