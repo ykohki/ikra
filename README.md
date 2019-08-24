@@ -161,6 +161,13 @@ SRRデータを探している場合は[http://sra.dbcls.jp/](http://sra.dbcls.j
 
 <img src="https://github.com/yyoshiaki/mishima_gassyuku/blob/master/img/dbcls_sra.png?raw=true" width="50%" >
 
+##補足
+
+今後、ikra使用者から受け付けた質問への回答はこちらで公開してまいります。
+
+- output.tsvをiDEPに読み込ませる場合は、Read counts dataにチェックを入れてください。
+- mouseのリファレンスはgencode.vM21で、GRCm38に対応しております。
+
 ## やること
 
 [issue](https://github.com/yyoshiaki/auto_counttable_maker/issues)を参照のこと。
