@@ -1,4 +1,5 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3352573.svg)](https://doi.org/10.5281/zenodo.3352573)
+[![Build Status](https://travis-ci.org/ykohki/ikra.svg?branch=master)](https://travis-ci.org/ykohki/ikra)
 
 # ikra v1.2.1 -RNAseq pipeline centered on Salmon-<img src="img/ikra.png" width="20%" align="right" />
 
