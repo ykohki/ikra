@@ -3,3 +3,6 @@ deploy:
   script: bash test/test.sh
   on:
     branch: master
+os:
+- linux
+- osx
