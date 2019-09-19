@@ -1,11 +1,17 @@
 language: bash
 deploy:
-  provider: script
-  script: bash test/test.sh
-  on:
-    branch:
-      - master
-      - travisci
+- provider: script
+- script: bash test/test.sh
+- on:
+    branch:master
+- provider: script
+- script: bash test/test.sh
+- on:
+    branch:travisci
 os:
 - linux
 - osx
+branches:
+  only:
+  - master
+  - travisci
