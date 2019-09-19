@@ -1,4 +1,7 @@
 language: bash
 jobs:
   include:
-    script: bash test/test.sh
+    script: bash test/test_travis.sh
+os:
+ - linux
+ - osx
