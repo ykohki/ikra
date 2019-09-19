@@ -3,7 +3,9 @@ deploy:
   provider: script
   script: bash test/test.sh
   on:
-    branch: master
+    branch:
+      - master
+      - travisci
 os:
 - linux
 - osx
