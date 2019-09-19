@@ -3,11 +3,11 @@ deploy:
 - provider: script
 - script: bash test/test.sh
 - on:
-    branch:master
+    branch: master
 - provider: script
 - script: bash test/test.sh
 - on:
-    branch:travisci
+    branch: travisci
 os:
 - linux
 - osx
