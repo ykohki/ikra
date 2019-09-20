@@ -1,7 +1,5 @@
 #!/bin/bash
 free -h
-cat /proc/`pgrep hogehoge`/status
-cpu
 
 cd test/Illumina_SE && bash ../../ikra.sh Illumina_SE_SRR.csv mouse --test -t 6
 

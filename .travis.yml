@@ -1,4 +1,7 @@
 language: bash
+before_install:
+  - chmod +x test/test_travis_PE.sh
+  - chmod +x test/test_travis_SE.sh
 env:
 - TEST_SUITE="test/test_travis_PE.sh"
 - TEST_SUITE="test/test_travis_SE.sh"
