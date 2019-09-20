@@ -1,7 +1,10 @@
 language: bash
 jobs:
   include:
-    script: bash test/test_travis.sh
+    - stage: test_PE
+      script: bash test/test_travis_PE.sh
+    - stage: test_SE
+      script: bash test/test_travis_SE.sh
 os:
  - linux
  - osx
